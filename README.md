@@ -2,8 +2,8 @@
 
 🤖 FACEBOOK MESSENGER MULTI DEVICE BOT 🤖
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RUDRO+X+BOT;MESSENGER+MULTI+DEVICE+BOT;FAST+AND+POWERFUL+BOT;CUSTOM+COMMAND+SYSTEM;24%2F7+ACTIVE+SERVICE" />"Stars" (https://img.shields.io/github/stars/Shamim9032/RUDRO_X_BOT?style=for-the-badge&logo=github)
-"Forks" (https://img.shields.io/github/forks/Shamim9032/RUDRO_X_BOT?style=for-the-badge&logo=github)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=RUDRO+X+BOT;MESSENGER+MULTI+DEVICE+BOT;FAST+AND+POWERFUL+BOT;CUSTOM+COMMAND+SYSTEM;24%2F7+ACTIVE+SERVICE" />"Stars" (https://i.imgur.com/eR8iEom.jpeg)
+
 "Repo Size" (https://img.shields.io/github/repo-size/Shamim9032/RUDRO_X_BOT?style=for-the-badge)
 
 </div>---
