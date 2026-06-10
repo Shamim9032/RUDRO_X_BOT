@@ -1,6 +1,6 @@
 ⚡ RUDRO X BOT ⚡
 
-<div align="center"><img src="https://imgur.com/gallery/good-day-PhGDWUM" width="100%">🤖 RUDRO X BOT
+<div align="center"><img src="https://i.imgur.com/eR8iEom.jpeg" width="100%">🤖 RUDRO X BOT
 
 Facebook Messenger Multi Device Bot
 
