@@ -1,12 +1,8 @@
 ⚡ RUDRO X BOT ⚡
 
-<div align="center"><img src="https://i.imgur.com/8Km9tLL.jpeg" width="100%">🤖 RUDRO X BOT
+<div align="center"><img src="https://imgur.com/gallery/good-day-PhGDWUM" width="100%">🤖 RUDRO X BOT
 
 Facebook Messenger Multi Device Bot
-
-"Stars" (https://img.shields.io/github/stars/Shamim9032/RUDRO_X_BOT?style=for-the-badge&logo=github)
-"Forks" (https://img.shields.io/github/forks/Shamim9032/RUDRO_X_BOT?style=for-the-badge&logo=github)
-"Repo Size" (https://img.shields.io/github/repo-size/Shamim9032/RUDRO_X_BOT?style=for-the-badge)
 
 </div>---
 
